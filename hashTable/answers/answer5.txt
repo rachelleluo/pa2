@@ -1,0 +1,42 @@
+Current stock of Charli: 5
+Current stock of Charli: 5
+Not enough stock of Mezzanine
+Resizing the table from 8 to 16
+Not enough stock of how i'm feeling now
+Current stock of Mezzanine: 9
+Not enough stock of KiCk iiii
+Not enough stock of Charli
+Not enough stock of Mezzanine
+Not enough stock of how i'm feeling now
+Not enough stock of Utopia
+Resizing the table from 16 to 32
+Not enough stock of 6 Feet Beneath The Moon
+Not enough stock of 1000 gecs
+Not enough stock of how i'm feeling now
+Not enough stock of Utopia
+Not enough stock of 6 Feet Beneath The Moon
+Not enough stock of 6 Feet Beneath The Moon
+Current stock of 6 Feet Beneath The Moon: 27
+Not enough stock of EXETER
+Not enough stock of EXETER
+Not enough stock of Random Access Memories
+No stock of Fossora
+Not enough stock of KiCk iiii
+No stock of Fossora
+Current stock of Nevermind: 78
+Not enough stock of KiCk iiii
+-------- FINAL COUNTS --------
+Charli: 8
+Mezzanine: 92
+Utopia: 4
+how i'm feeling now: 32
+1000 gecs: 6
+KiCk iiii: 25
+Grace: 13
+Debut: 3
+6 Feet Beneath The Moon: 25
+Nevermind: 78
+EXETER: 5
+Random Access Memories: 11
+Wlfgrl: 20
+------------------------------

@@ -1,0 +1,257 @@
+32
+RESTOCK 43 Chromatica
+RESTOCK 46 EXETER
+RESTOCK 8 Nevermind
+SALE 17 EXETER
+RESTOCK 21 The OOZ
+SALE 20 EXETER
+SHOW_STOCK 0 Nevermind
+SALE 38 Chromatica
+RESTOCK 28 Heaven or Las Vegas
+SALE 38 The OOZ
+SALE 2 EXETER
+SALE 29 Heaven or Las Vegas
+RESTOCK 35 KiCk i
+RESTOCK 6 KiCk iii
+RESTOCK 29 In Utero
+SALE 19 The OOZ
+RESTOCK 31 EXETER
+SALE 46 In Utero
+RESTOCK 38 1000 gecs
+SALE 1 KiCk iii
+RESTOCK 21 Dummy
+SALE 43 Nevermind
+SALE 32 Nevermind
+RESTOCK 1 Vulnicura
+RESTOCK 32 Debut
+RESTOCK 42 Nevermind
+SALE 28 Chromatica
+RESTOCK 37 Portishead
+RESTOCK 26 Vulnicura
+SALE 37 EXETER
+SALE 7 Nevermind
+SALE 16 KiCk iii
+SALE 19 Vulnicura
+SALE 39 KiCk iii
+RESTOCK 26 1000 gecs
+SALE 36 Portishead
+SHOW_STOCK 0 EXETER
+RESTOCK 42 Debut
+RESTOCK 33 Debut
+RESTOCK 39 Charli
+SALE 12 Heaven or Las Vegas
+RESTOCK 50 KiCk i
+RESTOCK 15 Post
+SALE 6 Chromatica
+SALE 17 Debut
+SALE 38 Heaven or Las Vegas
+RESTOCK 9 The OOZ
+SALE 4 1000 gecs
+SALE 14 Portishead
+SHOW_STOCK 0 In Utero
+SALE 25 Nevermind
+SALE 15 1000 gecs
+SALE 19 Heaven or Las Vegas
+RESTOCK 34 Grace
+SALE 40 1000 gecs
+SALE 14 Heaven or Las Vegas
+SALE 10 Nevermind
+SHOW_STOCK 0 Nevermind
+RESTOCK 42 Future Nostalgia
+RESTOCK 31 Vulnicura
+RESTOCK 46 Future Nostalgia
+RESTOCK 10 In Utero
+RESTOCK 31 6 Feet Beneath The Moon
+SALE 42 Debut
+RESTOCK 25 Grace
+SHOW_STOCK 0 1000 gecs
+SALE 23 6 Feet Beneath The Moon
+RESTOCK 36 Back to Black
+SALE 32 In Utero
+RESTOCK 48 1000 gecs
+SHOW_STOCK 0 Dummy
+RESTOCK 25 Post
+SHOW_STOCK 0 Vulnicura
+RESTOCK 15 Portishead
+RESTOCK 7 EXETER
+RESTOCK 7 Dummy
+RESTOCK 18 KiCk iii
+SALE 12 6 Feet Beneath The Moon
+SALE 17 Chromatica
+SHOW_STOCK 0 1000 gecs
+SALE 5 Charli
+RESTOCK 47 MAGDALENE
+SALE 14 In Utero
+RESTOCK 3 Icedancer
+SALE 11 Chromatica
+RESTOCK 20 KiCk iiiii
+SALE 19 Back to Black
+SHOW_STOCK 0 Grace
+SALE 41 KiCk iii
+RESTOCK 9 Debut
+SALE 16 Future Nostalgia
+SALE 34 Debut
+RESTOCK 8 Nevermind
+RESTOCK 26 Portishead
+RESTOCK 1 Charli
+SALE 24 Charli
+SALE 44 KiCk iii
+SALE 3 Back to Black
+SALE 26 Nevermind
+SALE 3 Icedancer
+RESTOCK 38 Charli
+RESTOCK 47 Nevermind
+SHOW_STOCK 0 Vulnicura
+RESTOCK 2 1000 gecs
+SALE 19 1000 gecs
+RESTOCK 25 The OOZ
+SALE 9 Future Nostalgia
+SALE 13 Heaven or Las Vegas
+RESTOCK 26 The OOZ
+SALE 23 Chromatica
+SALE 21 Post
+SHOW_STOCK 0 Heaven or Las Vegas
+SALE 43 Chromatica
+RESTOCK 38 10,000 gecs
+SALE 48 Charli
+RESTOCK 35 10,000 gecs
+RESTOCK 5 The OOZ
+RESTOCK 9 The OOZ
+SALE 12 KiCk i
+RESTOCK 40 Icedancer
+RESTOCK 46 KiCk iiiii
+SALE 40 Future Nostalgia
+RESTOCK 31 6 Feet Beneath The Moon
+SALE 38 Nevermind
+SALE 39 KiCk iiiii
+SALE 1 Nevermind
+SALE 15 MAGDALENE
+SHOW_STOCK 0 Vulnicura
+RESTOCK 4 Grace
+SALE 26 1000 gecs
+SALE 45 10,000 gecs
+SALE 32 Heaven or Las Vegas
+SHOW_STOCK 0 Vulnicura
+SALE 33 Icedancer
+SALE 45 Chromatica
+SALE 23 Debut
+RESTOCK 48 10,000 gecs
+SHOW_STOCK 0 Post
+RESTOCK 30 Vulnicura
+RESTOCK 17 Icedancer
+RESTOCK 44 6 Feet Beneath The Moon
+SALE 27 Post
+SHOW_STOCK 0 10,000 gecs
+SALE 49 The OOZ
+SALE 23 6 Feet Beneath The Moon
+SALE 20 MAGDALENE
+RESTOCK 14 Charli
+SALE 32 KiCk iii
+RESTOCK 24 Portishead
+SALE 39 1000 gecs
+SHOW_STOCK 0 Chromatica
+RESTOCK 34 Heaven or Las Vegas
+RESTOCK 26 Post
+RESTOCK 10 Grace
+RESTOCK 44 1000 gecs
+SHOW_STOCK 0 KiCk i
+SALE 18 1000 gecs
+RESTOCK 49 KiCk iii
+RESTOCK 34 Post
+SHOW_STOCK 0 Heaven or Las Vegas
+SALE 30 1000 gecs
+SALE 35 Nevermind
+SHOW_STOCK 0 KiCk i
+RESTOCK 32 Grace
+RESTOCK 14 Post
+SALE 17 Future Nostalgia
+RESTOCK 7 KiCk iii
+SALE 9 The OOZ
+RESTOCK 16 Back to Black
+RESTOCK 43 Icedancer
+RESTOCK 6 In Utero
+RESTOCK 34 Nevermind
+RESTOCK 47 Chromatica
+RESTOCK 47 KiCk i
+RESTOCK 18 Debut
+SALE 23 Back to Black
+RESTOCK 32 Dummy
+RESTOCK 13 Nevermind
+SALE 8 Chromatica
+RESTOCK 22 Chromatica
+RESTOCK 21 KiCk iii
+RESTOCK 21 Back to Black
+RESTOCK 39 Debut
+SALE 46 KiCk iiiii
+SALE 46 The OOZ
+RESTOCK 4 Icedancer
+SALE 35 KiCk iiiii
+SALE 7 Charli
+RESTOCK 32 Chromatica
+SALE 14 6 Feet Beneath The Moon
+SALE 20 Nevermind
+RESTOCK 19 Future Nostalgia
+RESTOCK 37 In Utero
+RESTOCK 15 In Utero
+SALE 40 Heaven or Las Vegas
+SALE 17 EXETER
+SALE 8 KiCk iiii
+RESTOCK 24 Icedancer
+SALE 16 Charli
+RESTOCK 48 KiCk iii
+SALE 4 Future Nostalgia
+SALE 12 Future Nostalgia
+SALE 6 KiCk i
+SHOW_STOCK 0 KiCk i
+SALE 16 Vulnicura
+RESTOCK 30 Post
+RESTOCK 37 Future Nostalgia
+SALE 35 Fossora
+RESTOCK 43 10,000 gecs
+RESTOCK 32 Future Nostalgia
+SALE 7 In Utero
+RESTOCK 14 KiCk iiii
+RESTOCK 4 Grace
+SALE 10 Debut
+SALE 37 Fossora
+RESTOCK 37 Charli
+SHOW_STOCK 0 Portishead
+RESTOCK 26 MAGDALENE
+RESTOCK 33 Vulnicura
+RESTOCK 9 Grace
+SALE 42 Nevermind
+RESTOCK 9 The OOZ
+SALE 10 MAGDALENE
+SALE 31 Vulnicura
+RESTOCK 7 10,000 gecs
+SALE 32 Fossora
+SHOW_STOCK 0 Back to Black
+SALE 28 Fossora
+RESTOCK 30 In Utero
+RESTOCK 14 Heaven or Las Vegas
+SALE 29 Portishead
+SALE 11 1000 gecs
+RESTOCK 33 Nevermind
+RESTOCK 2 KiCk iiii
+SALE 24 Nevermind
+RESTOCK 41 In Utero
+SALE 11 10,000 gecs
+SALE 27 Post
+RESTOCK 26 Portishead
+SHOW_STOCK 0 Chromatica
+SHOW_STOCK 0 The OOZ
+RESTOCK 10 Charli
+SALE 24 EXETER
+RESTOCK 21 The OOZ
+RESTOCK 16 KiCk iiii
+RESTOCK 24 Post
+RESTOCK 32 KiCk iii
+RESTOCK 4 KiCk i
+RESTOCK 4 EXETER
+RESTOCK 23 MAGDALENE
+RESTOCK 24 Back to Black
+SALE 14 Future Nostalgia
+SHOW_STOCK 0 Heaven or Las Vegas
+SALE 25 Icedancer
+RESTOCK 12 Debut
+RESTOCK 36 Chromatica

@@ -1,0 +1,70 @@
+Not enough stock of Portishead
+Not enough stock of Icedancer
+Current stock of The OOZ: 10
+Current stock of KiCk iiiii: 35
+Current stock of Icedancer: 3
+Not enough stock of Portishead
+Resizing the table from 16 to 32
+Not enough stock of In Utero
+Not enough stock of OIL OF EVERY PEARL'S UN-INSIDES
+Not enough stock of Icedancer
+Not enough stock of Icedancer
+Not enough stock of The OOZ
+Not enough stock of KiCk iii
+Current stock of Portishead: 9
+Not enough stock of Icedancer
+Not enough stock of The OOZ
+Not enough stock of Portishead
+Not enough stock of Portishead
+Current stock of Mezzanine: 5
+Current stock of Mezzanine: 5
+Not enough stock of Portishead
+Not enough stock of KiCk iii
+Not enough stock of In Utero
+Current stock of KiCk iii: 5
+Current stock of MAGDALENE: 18
+Not enough stock of KiCk iiiii
+Resizing the table from 32 to 64
+Not enough stock of Icedancer
+Not enough stock of Back to Black
+Current stock of KiCk iii: 5
+Current stock of Chromatica: 17
+Current stock of Mezzanine: 32
+Not enough stock of In Utero
+Not enough stock of Portishead
+Not enough stock of Grace
+Current stock of The OOZ: 54
+Not enough stock of Back to Black
+Not enough stock of Portishead
+Not enough stock of In Utero
+No stock of Heaven or Las Vegas
+Current stock of The OOZ: 54
+Current stock of Chromatica: 10
+No stock of Heaven or Las Vegas
+No stock of Voulez-Vous
+Not enough stock of Back to Black
+No stock of Heaven or Las Vegas
+Current stock of EXETER: 60
+Not enough stock of Mezzanine
+Current stock of Vespertine: 54
+Current stock of MAGDALENE: 18
+-------- FINAL COUNTS --------
+KiCk iiiii: 89
+Icedancer: 39
+OIL OF EVERY PEARL'S UN-INSIDES: 78
+The OOZ: 54
+Mezzanine: 29
+Portishead: 16
+In Utero: 8
+KiCk iiii: 14
+Back to Black: 4
+KiCk iii: 81
+EXETER: 60
+MAGDALENE: 18
+Homogenic: 50
+Chromatica: 10
+Vespertine: 54
+Future Nostalgia: 14
+Grace: 0
+Fossora: 32
+------------------------------

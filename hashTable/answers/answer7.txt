@@ -1,0 +1,93 @@
+Current stock of Nevermind: 8
+Not enough stock of The OOZ
+Not enough stock of Heaven or Las Vegas
+Not enough stock of In Utero
+Not enough stock of Nevermind
+Not enough stock of Nevermind
+Not enough stock of Chromatica
+Not enough stock of KiCk iii
+Not enough stock of KiCk iii
+Current stock of EXETER: 1
+Not enough stock of Chromatica
+Not enough stock of Heaven or Las Vegas
+Not enough stock of Portishead
+Current stock of In Utero: 29
+Not enough stock of Heaven or Las Vegas
+Resizing the table from 32 to 64
+Current stock of Nevermind: 8
+Current stock of 1000 gecs: 5
+Current stock of Dummy: 21
+Current stock of Vulnicura: 39
+Not enough stock of 6 Feet Beneath The Moon
+Not enough stock of Chromatica
+Current stock of 1000 gecs: 53
+Not enough stock of In Utero
+Not enough stock of Chromatica
+Current stock of Grace: 59
+Not enough stock of KiCk iii
+Not enough stock of KiCk iii
+Not enough stock of Nevermind
+Current stock of Vulnicura: 39
+Not enough stock of Heaven or Las Vegas
+Not enough stock of Chromatica
+Current stock of Heaven or Las Vegas: 2
+Not enough stock of Chromatica
+Current stock of Vulnicura: 39
+Not enough stock of Heaven or Las Vegas
+Current stock of Vulnicura: 39
+Not enough stock of Chromatica
+Current stock of Post: 19
+Not enough stock of Post
+Current stock of 10,000 gecs: 76
+Not enough stock of KiCk iii
+Not enough stock of 1000 gecs
+Current stock of Chromatica: 5
+Current stock of KiCk i: 73
+Current stock of Heaven or Las Vegas: 36
+Not enough stock of Nevermind
+Current stock of KiCk i: 73
+Not enough stock of KiCk iiiii
+Not enough stock of The OOZ
+Not enough stock of KiCk iiiii
+Not enough stock of Heaven or Las Vegas
+Not enough stock of EXETER
+No stock of KiCk iiii
+Not enough stock of Charli
+Current stock of KiCk i: 114
+No stock of Fossora
+No stock of Fossora
+Current stock of Portishead: 66
+No stock of Fossora
+Current stock of Back to Black: 28
+No stock of Fossora
+Not enough stock of 1000 gecs
+Current stock of Chromatica: 98
+Current stock of The OOZ: 27
+Not enough stock of EXETER
+Current stock of Heaven or Las Vegas: 50
+-------- FINAL COUNTS --------
+Chromatica: 134
+EXETER: 12
+Nevermind: 18
+The OOZ: 48
+Heaven or Las Vegas: 50
+KiCk i: 118
+KiCk iii: 180
+In Utero: 129
+1000 gecs: 6
+Dummy: 60
+Vulnicura: 55
+Debut: 59
+Portishead: 63
+Charli: 55
+Post: 120
+Grace: 118
+Future Nostalgia: 64
+6 Feet Beneath The Moon: 46
+Back to Black: 52
+MAGDALENE: 51
+Icedancer: 70
+KiCk iiiii: 27
+10,000 gecs: 115
+KiCk iiii: 32
+------------------------------

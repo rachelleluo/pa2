@@ -1,0 +1,24 @@
+Resizing the table from 4 to 8
+Resizing the table from 8 to 16
+Not enough stock of Back to Black
+Not enough stock of Future Nostalgia
+Current stock of Heaven or Las Vegas: 36
+Current stock of Future Nostalgia: 17
+Not enough stock of KiCk i
+Resizing the table from 16 to 32
+Not enough stock of Heaven or Las Vegas
+Not enough stock of Bleach
+Not enough stock of Heaven or Las Vegas
+Current stock of Post: 77
+No stock of Random Access Memories
+No stock of Random Access Memories
+-------- FINAL COUNTS --------
+Back to Black: 4
+KiCk i: 4
+Bleach: 4
+Heaven or Las Vegas: 26
+Utopia: 21
+Future Nostalgia: 16
+Stratosphere: 33
+Post: 66
+------------------------------
